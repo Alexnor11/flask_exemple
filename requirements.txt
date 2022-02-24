@@ -1,0 +1,8 @@
+Flask
+requests
+pytest
+SQLAlchemy
+psycopg2-binary
+flask_sqlalchemy
+flask_migrate
+jsonschema
